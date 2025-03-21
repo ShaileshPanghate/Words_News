@@ -28,7 +28,7 @@ const Home = () => {
 
     const content = {
         en: {
-            title1: `"NOWSBANSIU COMPANY"   `,
+            title1: `NOWSBANSIU COMPANY`,
             title2: `"Words without a dictionary" of "Natural Basic Word Science"  `,
             title: "Transforming Ideas into Impactful Words",
             title3: `We are trying to find the truth by exploring the power, structure, and beauty of language using natural words.`,
@@ -93,7 +93,7 @@ const Home = () => {
             Namah Satah Kalah! A hundredfold salutations!`
         },
         mr: {
-            title1: ` "नाउजबंन्सीयु कंपनी"  `,
+            title1: `नाउजबंन्सीयु कंपनी`,
             title2: `"नैसर्गिक मुळ शब्द विज्ञान" ची 'शब्दकोषविनाशब्द' "शब्दपॅथी"`,
             title: "कल्पनांना प्रभावी शब्दांमध्ये रूपांतरित करणे",
             title3: `नैसर्गिक शब्द वापरून भाषेची शक्ती, रचना आणि सौंदर्याचे शोधाचा सत्यशोध शोधण्याचा प्रयत्न करत असतो.`,
@@ -115,38 +115,38 @@ const Home = () => {
             </div>) : (
                 <div>
                     {/* Navbar */}
-                    < Navbar className="relative z-50 bg-white shadow-md py-4 px-6 flex justify-between items-center" language={language} setLanguage={setLanguage} />
+                    < Navbar className="relative w-full  z-50 bg-white shadow-md py-4 px-8 flex justify-between items-center" language={language} setLanguage={setLanguage} />
 
                     {/* Hero Section */}
 
-                    <section className="relative min-h-[50vh] w-full px-4 sm:px-6 lg:px-8 py-12 text-white flex flex-col justify-center items-center sm:items-start bg-cover bg-center overflow-hidden">
+                    <section className="relative min-h-[50vh] w-full px-4  py-12 text-white flex flex-col justify-center items-center sm:items-start bg-cover bg-center overflow-hidden">
                         {/* Background Overlay with Blur Effect */}
                         <div
-                            className="absolute inset-0 bg-cover bg-center"
+                            className="absolute inset-0 bg-cover bg-center w-full"
                             style={{ backgroundImage: "url(./Banner.png)", backdropFilter: "blur(8px)" }}
                         ></div>
 
                         {/* Content Section */}
-                        <div className="relative z-20 max-w-screen-xl mx-auto text-center sm:text-left px-4">
+                        <div className="relative z-20 w-full px-10  text-center sm:text-left ">
                             {/* Title */}
-                            <h1 className="text-white font-bold text-xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl leading-tight animate-slideIn">
+                            <h1 className="text-white font-bold text-center text-5xl sm:text-4xl md:text-4xl lg:text-6xl xl:text-5xl leading-tight animate-slideIn">
                                 {content[language].title1}
                             </h1>
                             <br /><br />
-                            <h1 className="text-white font-bold text-lg sm:text-2xl md:text-3xl lg:text-4xl leading-tight animate-slideIn">
+                            <h1 className="text-white font-bold  text-center text-2xl sm:text-3xl md:text-4xl lg:text-6xl xl:text-3xl leading-relaxed  animate-slideIn">
                                 {content[language].title2}
                             </h1>
                             <br />
-                            <h1 className="text-white font-bold text-lg sm:text-2xl md:text-3xl lg:text-4xl leading-tight mt-3 animate-slideIn">
+                            <h1 className="text-white font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-6xl xl:text-3xl leading-tight mt-3 animate-slideIn">
                                 {content[language].title}
                             </h1>
                             <br /><br />
-                            <h1 className="text-white font-bold text-lg sm:text-2xl md:text-3xl lg:text-4xl leading-tight animate-slideIn">
+                            <h1 className="text-white font-bold text-center text-2xl xl:text-2xl  leading-tight animate-slideIn">
                                 {content[language].title3}
                             </h1>
 
                             {/* Sub-heading */}
-                            <h4 className="text-white mt-4 text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl animate-slideIn">
+                            <h4 className="text-white text-center mt-4 text-2xl xl:text-2xl animate-slideIn">
                                 {content[language].sub_heading}
                             </h4>
 
@@ -182,23 +182,23 @@ const Home = () => {
                     </section>
 
                     {/* About */}
-                    <section className="py-10 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto text-center">
+                    <section className="py-10 px-10 sm:px-14  lg:px-8 max-w-7xl mx-auto text-center">
                         {/* Heading */}
 
                         {/* Additional Details */}
-                        <p className="text-gray-700 text-base sm:text-lg md:text-xl animate-slideIn mt-6">
+                        <p className=" text-2xl sm:text-3xl md:text-4xl lg:text-6sxl xl:text-2xl leading-relaxed text-gray-700  animate-slideIn mt-6">
                             {content[language].details}
                         </p>
 
                         {/* Image & Chat Section */}
-                        <div className="flex flex-col sm:flex-row items-center mt-8 gap-6">
+                        <div className="flex  w-full flex-col sm:flex-row items-center mt-8 gap-6">
                             <img
                                 src="ourStudents.jpeg"
                                 alt="Our Students"
                                 className="w-full sm:w-1/2 rounded-lg shadow-lg"
                             />
                             <div className="text-center sm:text-left">
-                                <p className="text-gray-700 text-base sm:text-lg md:text-lg animate-slideIn">
+                                <p className="text-gray-700  sm:text-lg md:text-lg text-2xl xl:text-2xl animate-slideIn">
                                     {content[language].imgAbout}
                                 </p>
                                 <button
@@ -288,7 +288,7 @@ const Home = () => {
                     <section>
                         <div className=" items-center gap-6">
                             {/* Text Section */}
-                            <p className="text-gray-700 m-14 text-xl animate-slideIn">{content[language].lastDetails}</p>
+                            <p className="text-gray-700 m-14 text-2xl sm:text-3xl md:text-4xl lg:text-6sxl xl:text-2xl leading-relaxed animate-slideIn">{content[language].lastDetails}</p>
 
                         </div>
                     </section>
