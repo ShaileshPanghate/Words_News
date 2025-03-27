@@ -49,44 +49,49 @@ const Home = () => {
             imgAbout: "The concept of NOWSBANSIU originates from the idea of natural word formation through letters, inspired by the curves, twists, and ups and downs of the dense forest paths in the Melghat region. This symbolizes the creation of fundamental words that uphold equality-based truth and truth-based equality, envisioning a scientifically advanced India rooted in the wisdom of the Mahabharata.As a representation of this vision, the Bansi Group's students symbolically showcase the unity and integration of the seven religions, offering a glimpse of the Melghats harmony through a remarkable Meghdhavi moment.",
             dohe: "Importance of Words",
             scan: "Experience the magic of words in a new way! Using natural words, I strive to explore the power, structure, and beauty of language in the quest for truth. 📌 Scan now and immerse yourself in the art of language!",
-            lastDetails: `In the end, Saint Avadhoot Maharaj (Sawanga Vitthoba), being part of the oral tradition, also received knowledge of words. However, as there were no physicians (vaidya) left for this knowledge, the disappearance of original natural words poses a risk of losing word concepts altogether. This raises concerns about how it affects and will affect the human body.
+            lastDetails: `That is why the universal saint Kabir Maharaj also, through Hindi, speaks of "Adika", meaning from the primeval mute human to the primeval root human, describing how the original inhabitants pronounced words and how human life (Prana) existed.
 
-            Through the distortion of words, tuberculosis-like diseases afflict the body, whereas, with the proper use of words, they serve as medicine, reducing arrogant doubts. Through oral tradition, Saint Avadhoot Maharaj conveys to his disciples, through Avadhooti bhajans (devotional songs), the significance of words, their power, scientific knowledge, and the ability to enlighten oneself ('Swayam Deep Bhav').
+            By eliminating and sentencing to death the biological and medicinal words that were originally enshrined in human life (Prana), new non-biological words were introduced into the mouths of Indians@Mahabharatians, instilling fear (Bhiv) in humanity.
             
-            While singing and speaking during Avadhooti bhajan performances, he emphasizes:
+            As a result, Saint Kabir Maharaj once again recites a Dohā (couplet), highlighting the impact of these changes.   :-       `,
+            lastDetailsheading: `"Words are our beginning, words are the essence of life!
+            Yet, by destroying those very words, we search for existence. !!"`,
+            lastDetails2: ` Maharashtrian saint Avadhoot Maharaj (Vithoba Savanga) also followed the experiences of Saint Kabir Maharaj and, through his own realizations, orally conveyed the natural root words he received in Marathi. Due to the absence of a true physician of words, there is a possibility that word-based concepts may disappear. This disappearance has harmful effects on the human body, leading to various diseases. He explained how the corruption of words can cause a metaphorical "tuberculosis" of the body, while the righteous use of words acts as a medicine, reducing the disease of ego-driven doubt. Through oral tradition, Avadhoot Maharaj used his devotional songs (bhajans) to emphasize the power, significance, and scientific wisdom of words. He aimed to enhance people's auditory perception and awaken them to self-enlightenment ("Swayam Deep Bhav") through these songs.
+
+            He sang and spoke in his devotional bhajans:
+            "Words drowned, imagination perished! The arrogant fell ill with tuberculosis!!
+            Medicine was given, and the disease of doubt vanished! The word market faded, and life became silent!!
+            The Guru, the true physician, was found! And thus, the illness did not afflict us!!
+            The Guru instills devotion through listening! He provides daily contemplation and insightful guidance!!"
             
-            "The word sank, the concept died!
-            Arrogant tuberculosis arose!!
-            Medicine was given, the disease of doubt vanished!
-            The marketplace of words faded, and silence prevailed!!
-            The Guru, the royal physician, was found!
-            Yet, we failed to realize it!!
-            The Guru preaches the devotion of listening!
-            Engages in daily contemplation with divine insight!!"
+            Many great historical figures, saints, and philosophers—including Gautama Buddha, Mahavira Jain, Prophet Muhammad, Jesus Christ, Sufi saints, Guru Nanak, Chanakya, Emperor Ashoka, Saint Kabir Maharaj, Jagadguru Sant Tukaram, Guru Gobind Singh, Rashtrasant Tukdoji Maharaj, Mahatma Jyotirao Phule, Sant Ravidas, Chhatrapati Shivaji Maharaj, Emperor Akbar, Samarth Ramdas Swami, Bal Gangadhar Tilak, Sant Nivrutti Maharaj, Sant Dnyaneshwar, Shahu Maharaj, Swami Vivekananda, Sane Guruji, Dr. Babasaheb Ambedkar, and Sant Gadge Baba—have all taught the significance of learning words in their true essence. However, because previous generations' teachings were not properly understood or continuously listened to, people failed to grasp the true meaning of "learning."
             
-            Many great figures before him—kings, saints, sages, enlightened beings like Lord Buddha, Lord Mahavira, Prophet Muhammad, Lord Jesus, Sufi saints, Guru Nanak, Chanakya, Emperor Ashoka, Saint Kabir, Jagadguru Sant Tukaram, Guru Gobind Singh, Rashtrasant Tukdoji Maharaj, social reformers like Mahatma Jyotiba Phule, Sant Ravidas, Shivaji Maharaj, Emperor Akbar, Samarth Ramdas Swami, Bal Gangadhar Tilak, Sant Dnyaneshwar, Shahu Maharaj, Swami Vivekananda, Sane Guruji, Dr. Babasaheb Ambedkar, Sant Gadge Baba, and many others—taught the importance of learning the essence of words. However, failing to continuously listen to the wisdom of our ancestors has left us without a true understanding of "learning."
+            Thus, innovative and balanced word-based education is not just desirable but essential for life itself. If words vanish, their associated ideas will cease to exist as mere concepts. Instead, those ideas must be transformed into "Satkalpana" (righteous thoughts) and put into practice through the systematic study of "Shabdakosha-Vina-Shabda" (the science of words beyond dictionaries). If people truly understand the righteous essence of words, then the ongoing conflicts, disputes, and debates over controversial words will no longer arise.
             
-            Thus, adopting a new approach of "uniform disciplined learning" is not just desirable but essential for life. If the essence of words disappears, their concepts should not remain mere imagination. Instead, they must be transformed into meaningful action through critical examination.
+            According to Saint Avadhoot Maharaj, when the market of words fades, it is akin to the setting of the moon, sun, and stars, which brings darkness. If the science of words and knowledge disappears, then blind faith may be mistaken for true faith, and vice versa. Many of our ancestors' words have either disappeared or been altered. If they are restored to their original form, then the pronunciation of these Shabdakosha-Vina-Shabda will serve as the first and ultimate remedy for healing. However, despite the existence of words, their true meaning has been lost, leading to a shortened human lifespan and an increase in untimely deaths.`,
+            lastDetailsheading2: `देहाची तिजोरी, भक्तिचाच ठेवा।
+            उघड दार देवा आता, उघड दार देवा ।।`,
+            lastDetails3: `Today, disputes arise over caste, religion, sects, temples, mosques, monasteries, churches, gurdwaras, dargahs, and even the 33 crore deities, gods, and divine figures. These conflicts are driven solely by words—names and places—which lead to arguments and clashes. However, without realizing it, these very words, when pronounced through sound therapy, can serve as treatment and first aid by stimulating micro and ultra-micro pores in the human body through internal organ exercises. Yet, due to the lack of such treatments, the human body fails to reach its optimal state through words, leaving us all afflicted by various chronic diseases.
+
+            Thus, not only in India but across the entire global social system, a lack of awareness has resulted in widespread ailments. Disease-stricken individuals often rely on expensive medicines and surgeries, but even these treatments sometimes fail. Eventually, they become silent and mute, losing their ability to express themselves. In the end, they must abandon their accumulated wealth, luxuries, properties, and riches, facing an untimely death. Instead of succumbing to this fate, one must seek timely treatment through the pronunciation of "Shabdakosha-Vina-Shabd" (words beyond the dictionary), which serves as an immediate remedy.
             
-            If people comprehend the essence of true words, there will no longer be endless debates, doubts, and conflicts over controversial words. According to Saint Avadhoot Maharaj, the "marketplace of words fading" is akin to how darkness sets in when the sun, moon, and stars disappear. If the stars of language fade away, true faith will be confused with blind faith, and vice versa.
+            For Indians, Hindustanis, and Bharatiyas, strengthening human health is possible through word science and knowledge, which enhances immunity and prevents diseases. By implementing a structured campaign of word-based education, we can reclaim the unity and strength once shared by the Indian subcontinent, including Afghanistan (1876), Burma (1935), Sri Lanka (1937), Bhutan (1906), Nepal (1907), and Pakistan (which included Bangladesh until 1971) (1947). Through this self-empowerment, all will join forces to resist division and conflict.
             
-            Many words from our ancestors have disappeared or changed in today's commonly used language. If those words are restored, their original pronunciation alone can serve as the first line of treatment and healing. Yet, in their absence, many human lives are lost prematurely.
+            The loss incurred due to a lack of word-based education and structured verbal exercise has been enormous. However, with collective efforts, we can prevent further damage. As the saying goes:
             
-            Today, disputes over caste, religion, sects, temples, mosques, monasteries, churches, and gurdwaras, along with conflicts over the names of gods and divine figures, have led to endless clashes. However, through the correct pronunciation of meaningful words, the body's internal organs can exercise and maintain proper function. Despite this, due to the absence of such healing practices, people suffer from severe illnesses.
+            "We will only speak the truth and nothing but the truth."
             
-            Not only Indians but the entire world suffers from various diseases due to a lack of awareness. After spending vast amounts on medical treatments and surgeries, people sometimes fail to recover and ultimately become mute in silence, losing everything they earned—wealth, property, luxury—only to die prematurely.
+            But for this statement to be successfully realized, it is essential to adopt the innovative "Natural Root Word Science" (Shabdakosha-Vina-Shabd) "Shabdopathy", where word knowledge and word science serve as both first aid and medical treatment for the human body. Through word pronunciation therapy, the history of our ancestors, the scientific understanding of words, their actions and reactions, and the processes that shape them can be explored.
             
-            Instead of reaching such an extreme, people must embrace the practice of "Shabdopathy"—a scientific method of healing through word pronunciation. If the knowledge of words is utilized for self-empowerment, then just as historical regions like Afghanistan (1876), Burma (1935), Sri Lanka (1937), Bhutan (1906), Nepal (1907), and Pakistan (1947) once formed part of a larger civilization, unity and collective struggle for self-empowerment will prevail once again.
+            Therefore, I urge everyone to contribute to this cause by learning about their country, city, village, and even disputed names across various global languages, to scientifically analyze the significance of words, places, and names. By self-empowerment, not only can we attain longevity, but we can also achieve a century-long lifespan. The daily use of words from "Shabdakosha-Vina-Shabd", based on predefined structured word flow and principles, will ultimately lead to reserved and preserved sensitive words, ensuring a sustainable and enriched verbal system.
             
-            Indians must not suffer an irreparable loss due to the lack of disciplined word education. The principle "Whatever we say, we will speak only the truth, and nothing but the truth" should be successfully realized.
-            
-            Thus, the innovative "Natural Root Word Science" through "Shabdopathy" must be implemented for word knowledge and word science. The pronunciation of words must be used as a form of primary treatment and healing. The natural root words, historical wisdom, disciplined word education, and structured learning of word actions and reactions must be understood and implemented.
-            
-            Therefore, every individual should contribute to understanding the scientific perspective behind controversial names, linguistic variations, and disputed terms related to cities, regions, or even global languages. This contribution will help achieve self-empowerment, longevity, and true well-being.
-            
-            We humbly request that individuals reserve and maintain their word quota for daily use in a systematic and value-added manner, ensuring a future of well-being through disciplined education and self-awareness.
-            
-            Namah Satah Kalah! A hundredfold salutations!`
+            Namah Satah Kalah!
+            A Hundredfold Salutations !!!`,
+            lastDetailsheading3: `देहाची तिजोरी, भक्तिचाच ठेवा।
+            उघड दार देवा आता, उघड दार देवा ।।`,
+            lastDetails4: ``,
+            lastDetailsheading4: ``,
+            lastDetails4: ``,
         },
         mr: {
             title1: `नाउजबंन्सीयु कंपनी`,
@@ -174,12 +179,12 @@ const Home = () => {
                             <img
                                 src="symbol.webp"
                                 alt="Symbol"
-                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg"
+                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg lazy"
                             />
                             <img
                                 src="flag.jpeg"
                                 alt="Flag"
-                                className="w-32 sm:w-40 md:w-48 lg:w-56 rounded-lg shadow-lg"
+                                className="w-32 sm:w-40 md:w-48 lg:w-56 rounded-lg shadow-lg lazy"
                             />
                         </div>
 
@@ -202,19 +207,19 @@ const Home = () => {
                             <img
                                 src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sunita_Williams_in_2018.jpg"
                                 alt="Symbol"
-                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg"
+                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg lazy"
                             />
                             <img
                                 src="SAshok.jpeg"
                                 alt="Symbol"
-                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg"
+                                className="w-24 sm:w-32 md:w-40 lg:w-48 rounded-lg shadow-lg lazy"
                             /> </div>
                         {/* Image & Chat Section */}
                         <div className="flex  w-full flex-col sm:flex-row items-center mt-8 gap-6">
                             <img
                                 src="ourStudents.jpeg"
                                 alt="Our Students"
-                                className="w-full sm:w-1/2 rounded-lg shadow-lg"
+                                className="w-full sm:w-1/2 rounded-lg shadow-lg lazy"
                             />
                             <div className="text-center sm:text-left">
                                 <p className="text-gray-700  sm:text-lg md:text-lg text-2xl xl:text-2xl animate-slideIn">
@@ -236,12 +241,12 @@ const Home = () => {
                             <img
                                 src="Book.jpeg"
                                 alt="Our Students"
-                                className="w-44 sm:w-40 md:w-48 lg:w-4xl rounded-lg shadow-lg"
+                                className="w-44 sm:w-40 md:w-48 lg:w-4xl rounded-lg shadow-lg lazy"
                             />
                             <img
                                 src="person.jpeg"
                                 alt="Our Students"
-                                className="w-32 sm:w-40 md:w-48 lg:w-96 rounded-lg shadow-lg"
+                                className="w-32 sm:w-40 md:w-48 lg:w-96 rounded-lg shadow-lg lazy"
                             />
                         </div>
                         {/* Video Section */}
@@ -304,12 +309,12 @@ const Home = () => {
                         <img
                             src="bodyStructure.jpeg"
                             alt="Our Students"
-                            className="w-44 sm:w-40 md:w-48 lg:w-2xl lg:h-xl rounded-lg shadow-lg"
+                            className="w-44 sm:w-40 md:w-48 lg:w-2xl lg:h-xl rounded-lg shadow-lg lazy"
                         />
                         <img
                             src="brainParts.jpeg"
                             alt="Our Students"
-                            className="w-32 sm:w-40 md:w-48 lg:w-2xl lg:h-xl rounded-lg shadow-lg"
+                            className="w-32 sm:w-40 md:w-48 lg:w-2xl lg:h-xl rounded-lg shadow-lg lazy"
                         />
                     </div>
 
@@ -334,7 +339,7 @@ const Home = () => {
                         <img
                             src="scanner.jpeg"
                             alt="Scan QR Code"
-                            className="w-48 sm:w-56 md:w-64 lg:w-72 xl:w-80 h-auto mt-8 md:mt-0 rounded-lg shadow-md"
+                            className="w-48 sm:w-56 md:w-64 lg:w-72 xl:w-80 h-auto mt-8 md:mt-0 rounded-lg shadow-md lazy"
                         />
                     </section>
                     <br />
