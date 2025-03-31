@@ -30,7 +30,7 @@ const Home = () => {
         en: {
             title1: `NOWSBANSIU COMPANY`,
             title2: `"Words without dictionary" of "Natural Origin Word Science"  `,
-            sub_heading: `  By examining the science of natural root words, we aim to transform fundamental concepts into more impactful and expressive words, rather than leaving them as mere ideas. This process enhances the power, structure, and beauty of language, leading to the pursuit of truth and wisdom.
+            sub_heading: `  By examining the science of natural Origin of words, we aim to transform fundamental concepts into more impactful and expressive words, rather than leaving them as mere ideas. This process enhances the power, structure, and beauty of language, leading to the pursuit of truth and wisdom.
             
             Through the application of Shabdakosha Vinashabd sound therapy, we explore how human longevity, well-being, and beauty can be enhanced. By integrating self-awareness and spiritual realization, our approach enables individuals to attain a fulfilling, joyful, and enlightened life, ultimately guiding them towards a century-long, harmonious existence.`,
             headingDetails: `"Treatment through Pronunciation"`,
@@ -44,7 +44,7 @@ const Home = () => {
             
             To understand every language and its literature, we utilize innovative linguistic knowledge, integrating communication skills and creativity to connect with the world. Our approach ensures that each word from global lexicons is scientifically interpreted and aligned with universal truth and equality.
             
-            Through 'Natural Root Word Science', we supply refined phonetic words ('Shabdakosha Vinashabd') via 'Shabdpathy'—an approach that provides language-based healing and knowledge transfer with the prior consent of the recipient.`,
+            Through 'Natural Origin Word Science', we supply refined phonetic words ('Shabdakosha Vinashabd') via 'Shabdpathy'—an approach that provides language-based healing and knowledge transfer with the prior consent of the recipient.`,
             latest: "Our Latest Writtings",
             imgAbout: "The concept of NOWSBANSIU originates from the idea of natural word formation through letters, inspired by the curves, twists, and ups and downs of the dense forest paths in the Melghat region. This symbolizes the creation of fundamental words that uphold equality-based truth and truth-based equality, envisioning a scientifically advanced India rooted in the wisdom of the Mahabharata.As a representation of this vision, the Bansi Group's students symbolically showcase the unity and integration of the seven religions, offering a glimpse of the Melghats harmony through a remarkable Meghdhavi moment.",
             dohe: "Importance of Words",
@@ -56,7 +56,7 @@ const Home = () => {
             As a result, Saint Kabir Maharaj once again recites a Dohā (couplet), highlighting the impact of these changes.   :-       `,
             lastDetailsheading: `"Words are our beginning, words are the essence of life!
             Yet, by destroying those very words, we search for existence. !!"`,
-            lastDetails2: ` Maharashtrian saint Avadhoot Maharaj (Vithoba Savanga) also followed the experiences of Saint Kabir Maharaj and, through his own realizations, orally conveyed the natural root words he received in Marathi. Due to the absence of a true physician of words, there is a possibility that word-based concepts may disappear. This disappearance has harmful effects on the human body, leading to various diseases. He explained how the corruption of words can cause a metaphorical "tuberculosis" of the body, while the righteous use of words acts as a medicine, reducing the disease of ego-driven doubt. Through oral tradition, Avadhoot Maharaj used his devotional songs (bhajans) to emphasize the power, significance, and scientific wisdom of words. He aimed to enhance people's auditory perception and awaken them to self-enlightenment ("Swayam Deep Bhav") through these songs.
+            lastDetails2: ` Maharashtrian saint Avadhoot Maharaj (Vithoba Savanga) also followed the experiences of Saint Kabir Maharaj and, through his own realizations, orally conveyed the natural origin of words he received in Marathi. Due to the absence of a true physician of words, there is a possibility that word-based concepts may disappear. This disappearance has harmful effects on the human body, leading to various diseases. He explained how the corruption of words can cause a metaphorical "tuberculosis" of the body, while the righteous use of words acts as a medicine, reducing the disease of ego-driven doubt. Through oral tradition, Avadhoot Maharaj used his devotional songs (bhajans) to emphasize the power, significance, and scientific wisdom of words. He aimed to enhance people's auditory perception and awaken them to self-enlightenment ("Swayam Deep Bhav") through these songs.
 
             He sang and spoke in his devotional bhajans:
             "Words drowned, imagination perished! The arrogant fell ill with tuberculosis!!
@@ -81,7 +81,7 @@ const Home = () => {
             
             "We will only speak the truth and nothing but the truth."
             
-            But for this statement to be successfully realized, it is essential to adopt the innovative "Natural Root Word Science" (Shabdakosha-Vina-Shabd) "Shabdopathy", where word knowledge and word science serve as both first aid and medical treatment for the human body. Through word pronunciation therapy, the history of our ancestors, the scientific understanding of words, their actions and reactions, and the processes that shape them can be explored.
+            But for this statement to be successfully realized, it is essential to adopt the innovative "Natural Origin of Word Science" (Shabdakosha-Vina-Shabd) "Shabdopathy", where word knowledge and word science serve as both first aid and medical treatment for the human body. Through word pronunciation therapy, the history of our ancestors, the scientific understanding of words, their actions and reactions, and the processes that shape them can be explored.
             
             Therefore, I urge everyone to contribute to this cause by learning about their country, city, village, and even disputed names across various global languages, to scientifically analyze the significance of words, places, and names. By self-empowerment, not only can we attain longevity, but we can also achieve a century-long lifespan. The daily use of words from "Shabdakosha-Vina-Shabd", based on predefined structured word flow and principles, will ultimately lead to reserved and preserved sensitive words, ensuring a sustainable and enriched verbal system.
             
