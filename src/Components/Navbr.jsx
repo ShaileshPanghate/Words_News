@@ -21,7 +21,7 @@ export default function Navbar({ language, setLanguage }) {
       {/* Desktop Menu */}
       <div className="hidden md:flex space-x-6">
         <Link to="/" className="text-gray-900 font-medium text-2xl hover:text-blue-600 transition-colors duration-300 transform hover:scale-105" >Home</Link>
-        <Link to="/contact" className="text-gray-900 font-medium text-2xl hover:text-blue-600 transition-colors duration-300 transform hover:scale-105" >Contact</Link>
+        <Link to="/contact" className="text-gray-900 font-medium text-2xl hover:text-blue-600 transition-colors duration-300 transform hover:scale-105" >Customer Care</Link>
       </div>
 
       {/* Language Toggle Button (Desktop) */}
