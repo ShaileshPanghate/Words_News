@@ -305,7 +305,7 @@ const Home = () => {
                     {/*BLOGS */}
                     <section className="py-10 px-8 text-center  animate-slideIn">
                         <h2 className="animate-slideIn text-3xl font-bold text-gray-800 underline mb-4">{content[language].latest}</h2>
-                        <Blogs />
+                        <Blogs language={language}/>
                     </section>
 
                     <div className="flex w-full justify-center ">
@@ -318,7 +318,7 @@ const Home = () => {
                     </div>
                     <section className="py-10 px-8 text-center animate-slideIn">
                         <h2 className="animate-slideIn text-3xl font-bold text-gray-800 underline mb-4">{content[language].dohe}</h2>
-                        <Imp_of_Words />
+                        <Imp_of_Words language={language}/>
                     </section>
                     <section>
                         <div className=" items-center gap-6 ">
