@@ -33,7 +33,7 @@ const Home = () => {
             // Words without dictionary" of "Natural Origin Word Science
             sub_heading: `  By examining the science of natural Origin  words, we aim to transform fundamental concepts into more impactful and expressive words, rather than leaving them as mere ideas. This process enhances the power, structure, and beauty of language, leading to the pursuit of truth and wisdom.
             
-            Through the application of Shabdakosha Vinashabd sound therapy, we explore how human longevity, well-being, and beauty can be enhanced. By integrating self-awareness and spiritual realization, our approach enables individuals to attain a fulfilling, joyful, and enlightened life, ultimately guiding them towards a century-long, harmonious existence.`,
+            Through the application of Shabdakoshavinashabd sound therapy, we explore how human longevity, well-being, and beauty can be enhanced. By integrating self-awareness and spiritual realization, our approach enables individuals to attain a fulfilling, joyful, and enlightened life, ultimately guiding them towards a century-long, harmonious existence.`,
             headingDetails: `1) "Treatment through Pronunciation"`,
             details: `A) We, the people of Bharat (India) and the Mahabharata lineage, are the inheritors of eternal truth and are committed to awakening the spirit of truth by unveiling timeless wisdom. Through the actions and reactions of true words, as well as processes and counter-processes, we inspire scientific unity in global thought using natural words that enhance the power, structure, and beauty of language in the pursuit of truth and wisdom.
             
