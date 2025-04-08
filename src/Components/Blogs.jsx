@@ -4,7 +4,8 @@ import { useState } from 'react';
 
 const blogsData = {
  
-  mr:[ {
+  mr:[ 
+    {
     id: 1,
     title: "2) भारत, हिन्दुस्तान, इंडिया च का म्हणतात?",
     preview: "A) भारत  ला भारत च का म्हणतात? \n  हिन्दुस्तान  ला हिंन्दुस्तान च का म्हणतात? इंडिया  ला इंडिया च का म्हणतात?...",
@@ -160,17 +161,17 @@ const blogsData = {
   en:[ 
     {
       "id": 1,
-      "title": "Why we called Bharat, Hindustan, and India?",
-      "preview": "Why is Bharat called Bharat? \n Why is Hindustan called Hindustan? \n Why is India called India?...",
-      "content": `Why is "Bharat" called Bharat? Why is "Hindustan" called Hindustan? Why is "*India" called India?  
+      "title": "2) Why we called Bharat, Hindustan, and India?",
+      "preview": "A) Why is Bharat called Bharat? \n Why is Hindustan called Hindustan? \n Why is India called India?...",
+      "content": `A) Why is "Bharat" called Bharat? Why is "Hindustan" called Hindustan? Why is "*India" called India?  
       "Bharat," "Hindustan," and "India" are all names of the same country, and like all nations in the world, the names of Indian towns and cities, as well as human names, originate from ancient linguistic traditions.   
-      What? Why? How? Natural, primary, primitive, Prakrit, organic, cultural, health-enhancing, scientific, universal, intellectual, social, equality-based, and truth-based words are part of the **"ShabdakoshaVinashabd"** (words without  dictionaries). These words have emerged from oral traditions and are deeply rooted in the linguistic evolution of early humans.  
+     B) What? Why? How? Natural, primary, primitive, Prakrit, organic, cultural, health-enhancing, scientific, universal, intellectual, social, equality-based, and truth-based words are part of the **"ShabdakoshaVinashabd"** (words without  dictionaries). These words have emerged from oral traditions and are deeply rooted in the linguistic evolution of early humans.  
       At the time of their origin, what medicinal secrets and human body benefits were hidden in the pronunciation of these truthful, sacred words? Understanding this through "Shabdapathy" (the science of words) has become not just essential but a necessity for every human in today's era.  
-      That is why Sant Ravidas Maharaj also speaks about the truth-based importance and equality-driven power of names and words:  
+      C) That is why Sant Ravidas Maharaj also speaks about the truth-based importance and equality-driven power of names and words:  
       **'Connect one word with another, only then will you find the true Name!  
       The more words unite, the more love will grow!!'**`,
       
-      "conDohaTitle": `"Jagatguru Sant Tukaram Maharaj explains the power and significance of words while speaking:"`,
+      "conDohaTitle": `D) "Jagatguru Sant Tukaram Maharaj explains the power and significance of words while speaking:"`,
       
       "conDoha": `  
       "In our home, wealth consists of words as precious as gems.  
@@ -206,29 +207,29 @@ const blogsData = {
   },
   {
     "id": 2,
-    "title": "The Country Where We Were Born",
-    "preview": "The name of the nation where we were born and raised is not only based on science but also on natural scientific technology...",
-    "content": "The name of the nation where we were born and raised is not only based on science but also on natural scientific technology and equality-based justice, which the entire world must acknowledge. What should be the 'Voice' of 'Bharat' in the land of India? The names of all the nations where we were born, along with the names of villages and words from all linguistic dictionaries, are not only based on science but also on Indian natural scientific technology and equality-based justice. That very wordless dictionary, 'Shabdpathy,' is a valuable oral universal dictionary collection. Understanding why 'Bharat' is called 'Bharat,' 'Hindustan' is called 'Hindustan,' and 'India' is called 'India' is not only essential but also a necessity for every Indian, Hindustani, and Indian. If even by the last moment, the scientific significance of these names is not understood by the world's nations and Indian citizens, then the life lived by these global and Indian citizens will be meaningless and wasted in futile pursuits. This should not happen! This is the heartfelt wish that should arise in every mind.",
-    "conDohaTitle": "Mahatma Jyotirao Phule, explaining the power and importance of words, says:",
+    "title": "3) The Country Where We Were Born",
+    "preview": "A) The name of the nation where we were born and raised is not only based on science but also on natural scientific technology...",
+    "content": "A) The name of the nation where we were born and raised is not only based on science but also on natural scientific technology and equality-based justice, which the entire world must acknowledge. What should be the 'Voice' of 'Bharat' in the land of India? The names of all the nations where we were born, along with the names of villages and words from all linguistic dictionaries, are not only based on science but also on Indian natural scientific technology and equality-based justice.B) That very wordless dictionary, 'Shabdpathy,' is a valuable oral universal dictionary collection. Understanding why 'Bharat' is called 'Bharat,' 'Hindustan' is called 'Hindustan,' and 'India' is called 'India' is not only essential but also a necessity for every Indian, Hindustani, and Indian. If even by the last moment, the scientific significance of these names is not understood by the world's nations and Indian citizens, then the life lived by these global and Indian citizens will be meaningless and wasted in futile pursuits. This should not happen! This is the heartfelt wish that should arise in every mind.",
+    "conDohaTitle": "C) Mahatma Jyotirao Phule, explaining the power and importance of words, says:",
     "conDoha": "\n    Without education, wisdom is lost. Without wisdom, morality is lost.\n    Without morality, progress is lost. Without progress, wealth is lost.\n    Without wealth, the downtrodden suffer. All these disasters stem from a single ignorance.\n    ",
     "videoUrl": "https://youtube.com/shorts/Wc7dIXt7hnw?si=ywepDXKN-eQdWanm"
   },
   {
     "id": 3,
-    "title": "Healing Through the Pronunciation of Natural origin Words",
-    "preview": "Healing through the pronunciation of natural origin words - 'Shabdpathy' from 'Natural origin Word Science'...",
-    "content": "Healing through the pronunciation of natural origin words - 'Shabdpathy' from 'Natural origin Word Science' brings forth newly discovered words. When spoken, they naturally acquire rhythm and cadence, which enhance the human body's self-regulating electrical system. This system gets more effectively activated and conducted, thereby improving the functioning of the brain, heart, lungs, and all internal organs. The pronunciation of these words acts as an exercise for these organs, reactivating dormant, stagnant, or lost micro-organs, making them lively and functional. Consequently, the body absorbs oxygen more efficiently, which increases hemoglobin levels and boosts blood circulation and regeneration automatically.",
-    "conDohaTitle": "Global Saint Kabir Maharaj, explaining the power and importance of words, says:",
+    "title": "4)Healing Through the Pronunciation of Natural origin Words",
+    "preview": "A) Healing through the pronunciation of natural origin words - 'Shabdpathy' from 'Natural origin Word Science'...",
+    "content": "A) Healing through the pronunciation of natural origin words - 'Shabdpathy' from 'Natural origin Word Science' brings forth newly discovered words. When spoken, they naturally acquire rhythm and cadence, which enhance the human body's self-regulating electrical system. This system gets more effectively activated and conducted, thereby improving the functioning of the brain, heart, lungs, and all internal organs. The pronunciation of these words acts as an exercise for these organs, reactivating dormant, stagnant, or lost micro-organs, making them lively and functional. Consequently, the body absorbs oxygen more efficiently, which increases hemoglobin levels and boosts blood circulation and regeneration automatically.",
+    "conDohaTitle": "B) Global Saint Kabir Maharaj, explaining the power and importance of words, says:",
     "conDoha": "\n              Speak words carefully, words have neither hands nor feet.\n              One word can heal, another can wound.\n              Be mindful of words, once spoken they never return.\n              Breaking someone’s heart will not bring you peace.\n              Understand the value of words, they shape destinies.\n              Bitter words please no one, always speak the truth.\n              Listen to the saint’s nectar-like words, fill your speech with sweetness.\n              The word is supreme, it carries knowledge.\n              Food spilled from a sieve cannot be gathered back.\n              Kabir says, listen dear saints, words shape the world.\n              ",
     "videoUrl": "https://youtube.com/shorts/RWmCs3TohYI?si=r3aR7I4AuZYH64fH"
   },
   {
     id: 4,
-    title: "Science in the Modern Era",
-    preview: `In today's advanced era, science has progressed so much...`,
-    content: `In today's advanced era, despite the availability of highly developed means and scientific progress, the average human lifespan does not seem to be increasing. Instead, many people are falling sick at a young age and facing premature death. While we cannot eliminate death, is there a way to achieve longevity?
-    By using specific techniques and practices, humans can not only desire a long life but also attain it. One such method involves the pronunciation of 'ShabdakoshaVinashShabd'—a set of phonetic words derived from "Natural Origin Word Science." If spoken daily, these words create a unique airflow in the vocal cords, allowing more air to pass rapidly through the trachea compared to conventional words. This increased airflow causes intense vibrations in the vocal folds, amplifying the sound of speech. As a result, this phonetic process stimulates and exercises even the most delicate muscles and organs within the human body.
-    This is the key difference between modern dictionary words and the 'ShabdakoshaVinashShabd' derived from "Natural Origin Word Science." The truth behind this can be explored through the study of 'ShabdPathy' (Word Therapy). --- **
+    title: "5) Science in the Modern Era",
+    preview: `A) In today's advanced era, science has progressed so much...`,
+    content: `A) In today's advanced era, despite the availability of highly developed means and scientific progress, the average human lifespan does not seem to be increasing. Instead, many people are falling sick at a young age and facing premature death. While we cannot eliminate death, is there a way to achieve longevity?
+    By using specific techniques and practices, humans can not only desire a long life but also attain it. One such method involves the pronunciation of 'ShabdakoshaVinashShabd'—a set of phonetic words derived from "Natural Origin Word Science. B)" If spoken daily, these words create a unique airflow in the vocal cords, allowing more air to pass rapidly through the trachea compared to conventional words. This increased airflow causes intense vibrations in the vocal folds, amplifying the sound of speech. C) As a result, this phonetic process stimulates and exercises even the most delicate muscles and organs within the human body.
+     This is the key difference between modern dictionary words and the 'ShabdakoshaVinashShabd' derived from "Natural Origin Word Science." D) The truth behind this can be explored through the study of 'ShabdPathy' (Word Therapy). --- **
     "Choose your words wisely, as words have no hands or feet.
     One word can heal, while another can wound.
     Be mindful of your words, for once spoken, they do not return.
@@ -237,7 +238,7 @@ const blogsData = {
     Words are powerful; they carry wisdom and knowledge.
     Just as fallen grains cannot be picked up again,
     Kabir says—words create and destroy." ** ---`,
-    conDohaTitle: `Renowned poets and social reformers highlight the power and importance of words:`,
+    conDohaTitle: `E) Renowned poets and social reformers highlight the power and importance of words:`,
     conDoha: `
     Words can be auspicious, words can be destructive,
     Words can uplift, words can condemn,
@@ -250,12 +251,12 @@ const blogsData = {
   },
   {
     id: 5,
-    title: "Wealth, Property, and Money in the Modern World",
-    preview: `In today's modern world, humans possess immense wealth, property...`,
-    content: `In today's modern world, humans possess immense wealth, property, money, and countless luxuries. Despite this, the immune system of the human body is weakening, and moral values are declining. Even though nature, the environment, and creation itself are always striving for human well-being, there is a growing disconnect between humanity and the natural sciences, environmental sciences, and the biological sciences that have existed for centuries.
-    Humans are divided into different ideologies—some are theistic, some atheistic, and some rationalists. Despite their awareness of nature, environment, and creation, they fail to perceive their true essence. The ultimate harmony of the universe lies in the convergence of nature, environment, and creation.
-    The fundamental truth of how this universal unity can be maintained is embedded in "Natural origin Word Science" and 'ShabdaPathy.' Understanding these principles is crucial in today's time. Otherwise, humanity will continue to decline in moral and physical aspects. The realization of how the unity of 'Body, Speech, and Mind' is established will lead to a profound understanding of human values. Failing to do so will only increase inhumanity, causing more physical deterioration rather than growth. It is essential to be aware of this and take necessary steps to preserve human well-being.`,
-    conDohaTitle: `Saint Tukaram Maharaj emphasizes the power and significance of words:`,
+    title: "6) Wealth, Property, and Money in the Modern World",
+    preview: `A) In today's modern world, humans possess immense wealth, property...`,
+    content: `A) In today's modern world, humans possess immense wealth, property, money, and countless luxuries. Despite this, the immune system of the human body is weakening, and moral values are declining. Even though nature, the environment, and creation itself are always striving for human well-being, there is a growing disconnect between humanity and the natural sciences, environmental sciences, and the biological sciences that have existed for centuries.
+    B) Humans are divided into different ideologies—some are theistic, some atheistic, and some rationalists. Despite their awareness of nature, environment, and creation, they fail to perceive their true essence. The ultimate harmony of the universe lies in the convergence of nature, environment, and creation.
+    C) The fundamental truth of how this universal unity can be maintained is embedded in "Natural origin Word Science" and 'ShabdaPathy.' Understanding these principles is crucial in today's time. Otherwise, humanity will continue to decline in moral and physical aspects. The realization of how the unity of 'Body, Speech, and Mind' is established will lead to a profound understanding of human values. Failing to do so will only increase inhumanity, causing more physical deterioration rather than growth. It is essential to be aware of this and take necessary steps to preserve human well-being.`,
+    conDohaTitle: `D) Saint Tukaram Maharaj emphasizes the power and significance of words:`,
     conDoha: `
     The body is a treasure chest, and devotion is its wealth.
     Open the door to the divine now, open the door to the divine.`,
@@ -263,13 +264,13 @@ const blogsData = {
   },
   {
     id: 6,
-    title: "Natural Speech and Pronunciation",
-    preview: `Nature-inspired natural, primary, primitive, original, organic, cultural...`,
-    content: `Nature-inspired natural, primary, primitive, original, organic, cultural speech and pronunciation directly influence the human forehead, three brains, tongue, teeth, palate, salivary glands, ears, nose, eyes, cheeks, throat, heart, lungs, small intestine, large intestine, kidneys, rectum, and numerous other internal organs.
-    These words are a part of an ancient linguistic system discovered by early Indian scientists. The Indian language once had phonetic words that were strict but promoted health, scientific understanding, philosophical insights, and social harmony. Unfortunately, these words are now missing from modern literature and dictionaries.
+    title: "7) Natural Speech and Pronunciation",
+    preview: `A) Nature-inspired natural, primary, primitive, original, organic, cultural...`,
+    content: `A) Nature-inspired natural, primary, primitive, original, organic, cultural speech and pronunciation directly influence the human forehead, three brains, tongue, teeth, palate, salivary glands, ears, nose, eyes, cheeks, throat, heart, lungs, small intestine, large intestine, kidneys, rectum, and numerous other internal organs.
+    B) These words are a part of an ancient linguistic system discovered by early Indian scientists. The Indian language once had phonetic words that were strict but promoted health, scientific understanding, philosophical insights, and social harmony. Unfortunately, these words are now missing from modern literature and dictionaries.
     However, these invaluable natural origin words, associated with human physiology and well-being, have been compiled into "Natural origin Word Science" through 'ShabdaPathy.' This knowledge is now available for everyone, and using it for achieving longevity and health is not just necessary but essential.
     `,
-    conDohaTitle: `Chhatrapati Shivaji Maharaj highlights the power and importance of words:`,
+    conDohaTitle: `C) Chhatrapati Shivaji Maharaj highlights the power and importance of words:`,
     conDoha: `
     Words are mightier than an army,
     Words conquer the minds of enemies.`,
@@ -277,28 +278,48 @@ const blogsData = {
   },
   {
     "id": 7,
-    "title": `Treatment through pronounciation of "words without dictionries"`,
-    "preview": "Prevention of brain and bone degeneration along with balancing blood pressure and breath...",
-    "content": `Prevention of brain and bone degeneration along with balancing blood pressure and breath, strengthening the lungs, enhancing the digestive system, increasing digestive power, and boosting immunity through the development of various words.\n\n 🗣️🧑‍🧑‍🧒‍🧒 The origin of sound lies in the lungs and the purification of blood, air, water, and food.\n 🫁Lungs, 🫀Heart, 🧠Brain, 👅Tongue - When exercised effectively using 'Words Without Dictionary,' it enhances digestion, increases physical strength, and boosts immunity, along with improving efficiency. The brain, which controls the human body, is divided into four parts but functionally has three. In today’s world, preventing brain and bone degeneration along with stopping rheumatism has become a necessity.\n\n 🧠Brain and 💪🩻🦵Bone degeneration along with rheumatism can be prevented by balancing blood pressure and breath, strengthening the lungs, developing the brain through exercise, and enhancing the digestive system. Through the natural origin word science of "Word Therapy" using 'Words Without Dictionary,' it enables subtle and micro pores in the body to function effectively. This scientific sound-based therapy stimulates inactive organs by regulating blood supply and enhancing their functionality.\n\n The vibrational energy from these words helps regulate blood pressure, breath, and brain activity, which ultimately leads to a reduction in brain cell and bone degeneration. This improves the efficiency of the brain, heart, lungs, and digestive system, strengthening the body's immunity and productivity.`,
-    "conDohaTitle": "Global Saint Kabir Maharaj emphasizes the power and importance of words:",
+    "title": `8) Treatment through pronounciation of "words without dictionries"`,
+    "preview": "A) Prevention of brain and bone degeneration along with balancing blood pressure and breath...",
+    "content": `A) Prevention of brain and bone degeneration along with balancing blood pressure and breath, strengthening the lungs, enhancing the digestive system, increasing digestive power, and boosting immunity through the development of various words.\n\n 🗣️🧑‍🧑‍🧒‍🧒 The origin of sound lies in the lungs and the purification of blood, air, water, and food.\n 🫁Lungs, 🫀Heart, 🧠Brain, 👅Tongue - When exercised effectively using 'Words Without Dictionary,' it enhances digestion, increases physical strength, and boosts immunity, along with improving efficiency. B) The brain, which controls the human body, is divided into four parts but functionally has three. In today’s world, preventing brain and bone degeneration along with stopping rheumatism has become a necessity.\n\n C) 🧠Brain and 💪🩻🦵Bone degeneration along with rheumatism can be prevented by balancing blood pressure and breath, strengthening the lungs, developing the brain through exercise, and enhancing the digestive system. Through the natural origin word science of "Word Therapy" using 'Words Without Dictionary,' it enables subtle and micro pores in the body to function effectively. This scientific sound-based therapy stimulates inactive organs by regulating blood supply and enhancing their functionality.\n\n The vibrational energy from these words helps regulate blood pressure, breath, and brain activity, which ultimately leads to a reduction in brain cell and bone degeneration. This improves the efficiency of the brain, heart, lungs, and digestive system, strengthening the body's immunity and productivity.`,
+    "conDohaTitle": "D) Global Saint Kabir Maharaj emphasizes the power and importance of words:",
     "conDoha": "The words on paper, the markings of intellect,\nOnly through words can one attain success.\nThere is devotion in words, there is creation in words,\nEverything exists because of words.",
     "videoUrl": "https://youtube.com/shorts/GXIXh9_g47Q?si=BiBzpEUDJ1joNUhv"
     },
     {
     "id": 8,
-    "title": "Bharat is the Search for Truth",
-    "preview": "Bharat is the search for truth; however, some associate it solely with King Bharat's name...",
-    "content": "Bharat is the search for truth; however, some associate it solely with King Bharat’s name. But both 'Bharat' and 'Bharat' are deeply originated in scientific, egalitarian, and truth-based principles. This understanding is essential for all humanity as it ensures internal physical exercise through 'Words Without Dictionary'.",
-    "conDohaTitle": "Global Saint Kabir Maharaj emphasizes the power and importance of words:",
+    "title": "9) Bharat is the Search for Truth",
+    "preview": "A) Bharat is the search for truth; however, some associate it solely with King Bharat's name...",
+    "content": "A) Bharat is the search for truth; however, some associate it solely with King Bharat’s name. But both 'Bharat' and 'Bharat' are deeply originated in scientific, egalitarian, and truth-based principles. This understanding is essential for all humanity as it ensures internal physical exercise through 'Words Without Dictionary'.",
+    "conDohaTitle": "B) Global Saint Kabir Maharaj emphasizes the power and importance of words:",
     "conDoha": "Speak with care, words have no hands or feet.\nOne word can heal, another can wound.\nBe mindful of words, once spoken,\nThey can never be taken back.\nWords have power to create and destroy.\nBitter words are never liked, always speak the truth.\nListen to the divine words of the Guru,\nAnd let them fill your mouth with nectar.\nWords are great, words contain knowledge.\nLike spilled grains that cannot be picked up,\nKabir says, the game of words is supreme.",
     "videoUrl": "https://youtube.com/shorts/Wc7dIXt7hnw?si=ywepDXKN-eQdWanm"
     },
     {
     "id": 9,
-    "title": "Free! Free! Free! 'Words Without Dictionary' Live Demonstration \n\n The Word 'Water' in 'Words Without Dictionary'",
-    "preview": "The word 'Water' in 'Words Without Dictionary' based on Natural origin Word Science...",
-    "content": "Natural origin Word Science introduces 'Words Without Dictionary' through 'Word Therapy' with numerous words created over time. Here is a demonstration:\n\n In ancient times, primitive humans lived in groups without a spoken language. During droughts, they wandered in search of water, unable to communicate their thirst effectively. As they signaled and gestured, they gradually developed sounds resembling 'ppa' when trying to express their thirst.\n\n Over time, they observed that water came from the sky, leading to the sounds 'na' or 'ni' being combined with 'ppa,' forming 'ppani' (water). Further refining the articulation, they developed 'pplani' by modifying their tongue’s movement, which helped their saliva production and temporarily quenched their thirst.\n\n 'Words Without Dictionary' facilitates internal body functions, activating micro and sub-micro pores in the body, enhancing organ functions, and maintaining balance. Even traditional 'curse words' in many cultures have scientific significance, demonstrating the power of therapeutic word vibrations.\n\n Every word documented in our system undergoes validation through the 'Word Therapy' board, adhering to Indian Copyright Law 1976 and the Indian Patent Act 1970, ensuring proper scientific and linguistic evaluation before being shared for use.",
-    "conDohaTitle": "Chhatrapati Shahu Maharaj also emphasizes the power and significance of words:",
+    "title": "Free! Free! Free! 10) 'Words Without Dictionary' Live Demonstration \n\n The Word 'Water' in 'Words Without Dictionary'",
+    "preview": "A) The word 'Water' in 'Words Without Dictionary' based on Natural origin Word Science...",
+    "content": `A) Natural origin Word Science introduces 'Words Without Dictionary' through 'Word Therapy' with numerous words created over time. B) Here is a demonstration:\n\n A) In ancient times, primitive humans lived together in groups in a wild and mute state. During a drought, while wandering through unfamiliar, deserted jungles, they struggled to find water despite searching rivers, streams, and springs. These mute humans would communicate with each other through gestures, signs, and hand movements, attempting to convey their thirst. However, the others often failed to understand these signals—what they meant and why they were being made—resulting in no water being found.
+
+    B) In such desperate thirst, they would not hesitate to drink any water that came their way. But water remained elusive. Even after digging holes in dried riverbeds and barren places, they couldn't find any. As the search for water continued, their physical strength dwindled, yet the thirst remained unquenched.
+    
+    C) Out of helplessness, as a gesture and expression, these mute humans began pressing their lips together, moving them up and down, creating a sound. From this action, the first vocal expression emerged—“ppa”—then “ppaa.” But still, water did not appear.
+    
+    D) Repeated attempts to express thirst using the same sounds—“ppa” and “ppaa”—along with actions and gestures, eventually resulted in new sounds. As they gasped for air, exhausted and longing for water, sounds resembling “na” and “ṇi” were produced. These came from mixing nasal and oral breath, often while looking up at the blue sky and clouds in hope of rain.
+    
+    E) Out of these utterances, the “ṇi” sound got linked with the “ppa” sound. Through the combination of these two—gesture and sound—the symbolic word “ppaani” (water) was born. At that moment, for the first time, the meaning of this expression was mutually understood. Still, actual water was not found.
+    
+    F) Eventually, on the brink of death, their mouths became more parched than even a diabetic's during a health crisis. In desperation, while expressing their deep anguish, they moved their tongues vigorously, creating a new sound similar to “ḷ.” When this “ḷ” sound was added to “ppa,” the expression evolved into “ppḷaaṇi.” This three-part sound activated the salivary and thyroid glands, leading to an increase in saliva. This saliva momentarily quenched their thirst, preventing imminent death and granting temporary rejuvenation.
+    
+    G) The sound “ppḷaaṇi”—a "wordless word from a vocabulary-less language"—had such vibrational power that it awakened dormant, microscopic inner organs through its intensity. This marked the beginning of “Shabdapathy” (healing through words), enabling humans to self-heal by activating saliva as a temporary solution for thirst and survival, thus reclaiming life force through sound alone.
+    
+    In today’s "Shabdapathy" system, these rare, invented, and sacred sounds—spread across 3, 7, or 10 stages—can lead to physical well-being through powerful word pronunciations. Once these sound-experiences are personally felt, their vibrations can activate even the most subtle bodily functions, positively impacting organs such as:
+    
+    💹🧠👂👃👀👅👄🦷🫁🫀🩻🪸🦠
+    
+    "Natural Root Word Science," through this sound-healing method called Shabdapathy, acknowledges even traditionally considered “abusive” words as powerful sacred expressions containing hidden wellness effects. Through oral tradition and practical experience, countless such beneficial words have been passed down and are invaluable for achieving better health.
+    
+    H) Each word given through our practice is recorded in our booklet and sent to our Director’s Board for resolution. Once registered with the Executive Director and following due legal processes under the Indian Copyright Act, 1976, and Indian Patent Act, 1970, the compiled group of such words will be shared upon request, within a limited and regulated timeframe.`,
+    "conDohaTitle": "I) Chhatrapati Shahu Maharaj also emphasizes the power and significance of words:",
     "conDoha": "Words are the foundation of a kingdom,\nWords are the support of the people.\n",
     "videoUrl": "https://youtube.com/shorts/o5Em7P71fpk?si=JbNHIgV1pKuK6icu"
     }
